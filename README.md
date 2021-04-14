@@ -10,3 +10,5 @@ La primera contraseña (basic authentication) es:
   contraseña: david
   
 La siguiente contraseña  que hay que ingresar corresponde a la de la cuenta de administrador. Es la misma contraseña anterior
+
+Al hacer una reserva en la seccion de tutoriales, se accede a paypal para pagar por el servicio.
