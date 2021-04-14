@@ -14,7 +14,7 @@ La primera contraseña (basic authentication) es:
   
   contraseña: david
   
-  
+  --------------------------------------------------------------------------------
   
 La siguiente contraseña  que hay que ingresar corresponde a la de la cuenta de administrador. Es la misma contraseña anterior
 
